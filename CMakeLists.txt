@@ -1,5 +1,5 @@
 set(COMPONENT_SRCDIRS
-  "wire"
+  "Wire"
 )
 
 set(COMPONENT_ADD_INCLUDEDIRS
